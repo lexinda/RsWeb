@@ -4,10 +4,9 @@
 <%@ taglib uri= "http://java.sun.com/jsp/jstl/fmt" prefix ="fmt" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<title>Cleanography</title>
+<title></title>
 <!--CSS-->
 <link href="css/style.css" rel="stylesheet" type="text/css"/>
 <link href="css/reset.css" rel="stylesheet" type="text/css"/>
@@ -44,7 +43,7 @@
     <div class="topLink center clearfix">
       <div class="link2 f_R"><!-- <a class="sina" href="http://www.weibo.com/tskeji">微博</a>--><div class="code2">
           	<div class="bd">
-            	<div class="pic"><img src="http://www.1003team.com/v201397/images/code2.png"  /> </div>
+            	<div class="pic"><img src="/images/rs.jpg"  /> </div>
               <div class="txt">
               	扫描体验微信营销
               </div>
@@ -53,7 +52,6 @@
     </div>
  <script type="text/javascript">
 			$(function(){
-				alert("123");
 				$(".topLink .code2").hide();
 					$(".topLink .weixin").mouseover(function(){
 						$(".topLink .code2").fadeIn(300);

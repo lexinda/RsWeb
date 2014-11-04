@@ -25,10 +25,10 @@ function mycarousel_initCallback(carousel)
 			initCallback: mycarousel_initCallback
 		});
 		
-		 $('#testimonials1').before('<div id="nav">').cycle({
+		 /*$('#testimonials1').before('<div id="nav">').cycle({
 			fx: 'fade', // choose your transition type, ex: fade, scrollUp, scrollRight, shuffle
 			pager:  '#nav'
-		 });
+		 });*/
 	});
 	
 	
