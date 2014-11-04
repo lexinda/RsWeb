@@ -53,6 +53,7 @@
     </div>
  <script type="text/javascript">
 			$(function(){
+				alert("123");
 				$(".topLink .code2").hide();
 					$(".topLink .weixin").mouseover(function(){
 						$(".topLink .code2").fadeIn(300);
