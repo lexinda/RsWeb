@@ -1,0 +1,47 @@
+.i-body{background:rgb(94,193,248); url(images/1a013047.banner-51.jpg) no-repeat center top;min-width:1080px}
+.header{height:105px;width:100%;margin:auto;background-color: #fff;}
+.headerContent{height:105px;width:1080px;margin:auto;background-color: #fff;}
+.logo,.pc-logo{background:url(images/rongshangtubiao.jpg) no-repeat}
+.logo{width:250px;height:90px;float:left}
+.pc-logo{background-position:-250px 0;width:32px;height:60px;float:left;margin:26px 0 0 52px}
+.menu{float:left;height:24px;line-height:24px;margin:43px 0 0 30px}
+.menu a{float:left;font-size:16px;height:100%;width:118px;text-align:center;border-left:1px solid #A9A9A9;border-right:1px solid #A9A9A9;margin-left:-1px}
+.menu a:hover,.menu a:link,.menu a:visited{color:rgb(1,117,189);}
+.banner{border-top-width:1px;border-top-style:solid;border-top-color:rgba(255,255,255,.2);width:100%;height:494px}
+.banner-item{width:1080px;margin:auto;height:100%}
+.banner-item 
+.imgs{float:left;position:relative;height:100%}
+.banner-c-1,.banner-c-2,.banner-c-3,.banner-c-4{position:absolute;bottom:0}
+.banner-c-1{background:url(images/4a17b2dd.banner-c-1.png) no-repeat;width:266px;height:463px;left:20px}
+.banner-c-2{background:url(images/876351c2.banner-c-2.png) no-repeat;width:227px;height:463px;left:85px;filter:Alpha(Opacity=0);opacity:0}
+.banner-c-3{background:url(images/a930d0f7.banner-c-3.png) no-repeat;width:227px;height:463px;left:165px;filter:Alpha(Opacity=0);opacity:0}
+.banner-c-4{background:url(images/23161871.banner-c-4.png) no-repeat;width:227px;height:463px;left:245px;filter:Alpha(Opacity=0);opacity:0}
+.banner-item .info{float:right;text-align:right;color:#fff;margin-top:220px}
+.b-text{background:url(images/babf4d44.b-text.png) no-repeat right top;width:510px;height:154px;margin-bottom:10px}
+.banner-item .link{font-size:16px;color:#fff;text-decoration:underline}
+.banner-item .btn-box{padding:15px 0 25px}
+.banner-item .down-btn{width:198px;height:56px;border:1px solid;background-color:rgb(1,117,189);color:#fff;line-height:56px;text-align:center;display:inline-block;font-size:22px;border-radius:5px}
+.banner-item .qr-code{background-image:url(images/245760cc.qr-code.png);width:90px;height:90px;display:inline-block}
+.wrapper{width:1080px;margin:auto}
+.power-box{background:#fff}
+.power{width:1080px;margin:0 auto;padding:50px 0}
+.power li{float:left;width:269px;text-align:center}
+.power .split{width:1px;height:120px;margin-top:45px;background:#cfe0f8}
+.power h3{font-size:30px;color:#222;line-height:74px}
+.power p{color:#999;font-size:14px}
+.power-icon{background:url(images/bcb10f52.powers.png) no-repeat;width:100px;height:100px;display:block;margin:auto}
+.p-i-2{background-position:-100px 0}
+.p-i-3{background-position:-200px 0}
+.p-i-4{background-position:-300px 0}
+.f-links{font-size:14px;color:#999;padding:40px 0 20px;width:1080px;margin:auto}
+.fl-menu{float:left;line-height:22px;text-align:left;width:190px;padding-left:80px}
+.fl-menu dt{font-size:20px;margin-bottom:15px;color:#222}
+.f-links a:hover,.f-links a:link,.f-links a:visited{color:#999}
+.footer-box{background:#fafafa;width:100%}
+.footer{text-align:center;line-height:24px;color:#999;padding:20px 0;width:1080px;margin:auto}
+.footer a:hover,.footer a:link,.footer a:visited{color:#222}
+#support{padding:0 10px;width:100px;font-size:16px;text-align:0 1px 0 #fff;position:absolute;z-index:999;background:#fff;border-radius:5px;display:none}
+#support .arrow{border:6px solid;border-color:#fff transparent;border-top-width:0;content:"";display:block;height:0;width:0;position:relative;_overflow:hidden;top:-6px;left:45%}
+.s-list li{width:100%;height:40px;line-height:40px;border-bottom:1px solid #dedede}
+.s-list a{color:#222}
+.s-list a:hover{color:#226ed8}
